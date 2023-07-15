@@ -1,0 +1,28 @@
+.back {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #092e33;
+}
+.back1 {
+  display: flex;
+  justify-content: space-around;
+}
+.euro {
+  margin-left: 250px;
+}
+.back2 {
+  border-color: #00e7ff;
+  border-style: solid;
+  border-radius: 25px;
+  color: #ffffff;
+}
+.background {
+  background-color: #000000;
+  padding: 100px;
+  text-align: center;
+}
+.heading {
+  color: #00e7ff;
+  text-align: center;
+}

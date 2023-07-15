@@ -1,0 +1,16 @@
+.back3 {
+  display: flex;
+}
+.list {
+  list-style-type: none;
+}
+.currency-image {
+  height: 3vh;
+  margin-top: 18px;
+  margin-right: 10px;
+}
+.back4 {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
